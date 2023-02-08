@@ -17,11 +17,7 @@
 
   <summary>Image</summary>
   
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://octodex.github.com/images/yaktocat.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://octodex.github.com/images/yaktocat.png">
-  <img alt="image" src="https://octodex.github.com/images/yaktocat.png">
-</picture>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
   
