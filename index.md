@@ -14,6 +14,7 @@
 </details>
 
 
+<details>
   <summary>Image</summary>
   
   <picture>
@@ -22,4 +23,15 @@
   <img alt="image" src="https://octodex.github.com/images/yaktocat.png">
 </picture>
 
-
+</details>
+  
+ <details>
+   
+   <summary>code</summary>
+   
+   ```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+   </details>
+  
