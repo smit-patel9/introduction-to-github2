@@ -14,7 +14,6 @@
 </details>
 
 
-<details>
   <summary>Image</summary>
   
   <picture>
@@ -23,4 +22,4 @@
   <img alt="image" src="https://octodex.github.com/images/yaktocat.png">
 </picture>
 
-</details>
+
